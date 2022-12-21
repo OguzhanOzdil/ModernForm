@@ -1,0 +1,13 @@
+C:\Users\Ozzy\source\repos\ModernForm\bin\Debug\ModernForm.exe.config
+C:\Users\Ozzy\source\repos\ModernForm\bin\Debug\ModernForm.exe
+C:\Users\Ozzy\source\repos\ModernForm\bin\Debug\ModernForm.pdb
+C:\Users\Ozzy\source\repos\ModernForm\obj\Debug\ModernForm.csproj.AssemblyReference.cache
+C:\Users\Ozzy\source\repos\ModernForm\obj\Debug\ModernForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ozzy\source\repos\ModernForm\obj\Debug\ModernForm.Form1.resources
+C:\Users\Ozzy\source\repos\ModernForm\obj\Debug\ModernForm.Properties.Resources.resources
+C:\Users\Ozzy\source\repos\ModernForm\obj\Debug\ModernForm.csproj.GenerateResource.cache
+C:\Users\Ozzy\source\repos\ModernForm\obj\Debug\ModernForm.csproj.CoreCompileInputs.cache
+C:\Users\Ozzy\source\repos\ModernForm\obj\Debug\ModernForm.exe
+C:\Users\Ozzy\source\repos\ModernForm\obj\Debug\ModernForm.pdb
+C:\Users\Ozzy\source\repos\ModernForm\obj\Debug\ModernForm.Form2.resources
+C:\Users\Ozzy\source\repos\ModernForm\obj\Debug\ModernForm.Form3.resources
